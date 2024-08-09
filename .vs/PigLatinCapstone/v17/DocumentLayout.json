@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\16167\\source\\repos\\PigLatinCapstone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{979A354D-7F78-4D95-AA03-8DD1DA1CCBDC}|PigLatinCapstone\\PigLatinCapstone.csproj|c:\\users\\16167\\source\\repos\\piglatincapstone\\piglatincapstone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979A354D-7F78-4D95-AA03-8DD1DA1CCBDC}|PigLatinCapstone\\PigLatinCapstone.csproj|solutionrelative:piglatincapstone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\16167\\source\\repos\\PigLatinCapstone\\PigLatinCapstone\\Program.cs",
+              "RelativeDocumentMoniker": "PigLatinCapstone\\Program.cs",
+              "ToolTip": "C:\\Users\\16167\\source\\repos\\PigLatinCapstone\\PigLatinCapstone\\Program.cs",
+              "RelativeToolTip": "PigLatinCapstone\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T15:52:30.532Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
