@@ -7,7 +7,7 @@ bool runProgram = true;
 while (runProgram == true)
 {
     Console.WriteLine("Please type a sentence.");
-    string sentence = Console.ReadLine();
+    string sentence = Console.ReadLine().Trim();
     if (sentence != "")
     {
 
